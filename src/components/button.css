@@ -1,0 +1,39 @@
+.wrapper {
+    margin: 20px;
+    box-sizing: border-box;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.wrapper > button {
+    padding: 10px 20px;
+    border: 1px solid rgb(60, 64, 67);
+    background: black;
+    color: white;
+    z-index: 1;
+    position: relative;
+}
+
+.wrapper > button:hover {
+    opacity: 0.8;
+}
+
+.wrapper > span {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: grey;
+    border-radius: 50%;
+    animation: riffle .7s forwards;
+    z-index: 0;
+}
+
+@keyframes riffle {
+    0% {
+        transform: scale(0.5);
+    }
+    100% {
+        transform: scale(25);
+    }
+}

@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-demo1/build/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-demo1/build/static/js/main.b8a09ec5.chunk.js",
-    "main.js.map": "/react-demo1/build/static/js/main.b8a09ec5.chunk.js.map",
-    "runtime-main.js": "/react-demo1/build/static/js/runtime-main.9be2db59.js",
-    "runtime-main.js.map": "/react-demo1/build/static/js/runtime-main.9be2db59.js.map",
-    "static/js/2.8391cf19.chunk.js": "/react-demo1/build/static/js/2.8391cf19.chunk.js",
-    "static/js/2.8391cf19.chunk.js.map": "/react-demo1/build/static/js/2.8391cf19.chunk.js.map",
+    "main.css": "/react-demo1/build/static/css/main.e00c8cf9.chunk.css",
+    "main.js": "/react-demo1/build/static/js/main.839c82ab.chunk.js",
+    "main.js.map": "/react-demo1/build/static/js/main.839c82ab.chunk.js.map",
+    "runtime-main.js": "/react-demo1/build/static/js/runtime-main.5fe2631d.js",
+    "runtime-main.js.map": "/react-demo1/build/static/js/runtime-main.5fe2631d.js.map",
+    "static/js/2.8e8e7fe4.chunk.js": "/react-demo1/build/static/js/2.8e8e7fe4.chunk.js",
+    "static/js/2.8e8e7fe4.chunk.js.map": "/react-demo1/build/static/js/2.8e8e7fe4.chunk.js.map",
     "index.html": "/react-demo1/build/index.html",
-    "precache-manifest.fe1c2084eb4171359f983cfb63d18839.js": "/react-demo1/build/precache-manifest.fe1c2084eb4171359f983cfb63d18839.js",
+    "precache-manifest.8fae8cfda7bb2884f09c4bd6f4392100.js": "/react-demo1/build/precache-manifest.8fae8cfda7bb2884f09c4bd6f4392100.js",
     "service-worker.js": "/react-demo1/build/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/react-demo1/build/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.8391cf19.chunk.js.LICENSE": "/react-demo1/build/static/js/2.8391cf19.chunk.js.LICENSE",
-    "static/media/logo.svg": "/react-demo1/build/static/media/logo.5d5d9eef.svg"
+    "static/css/main.e00c8cf9.chunk.css.map": "/react-demo1/build/static/css/main.e00c8cf9.chunk.css.map",
+    "static/js/2.8e8e7fe4.chunk.js.LICENSE": "/react-demo1/build/static/js/2.8e8e7fe4.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.9be2db59.js",
-    "static/js/2.8391cf19.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b8a09ec5.chunk.js"
+    "static/js/runtime-main.5fe2631d.js",
+    "static/js/2.8e8e7fe4.chunk.js",
+    "static/css/main.e00c8cf9.chunk.css",
+    "static/js/main.839c82ab.chunk.js"
   ]
 }
